@@ -1,6 +1,6 @@
 <h1>ExpNo 2 : Implement Depth First Search Traversal of a Graph</h1> 
-<h3>Name: V Meiyarasi N</h3>
-<h3>Register Number : 212221230058
+<h3>Name: HAMZA FAROOQUE</h3>
+<h3>Register Number : 212223040054
 <H3>Aim:</H3>
 <p> To Implement Depth First Search Traversal of a Graph using Python 3.</p>
 <h3>Theory:</h3>
